@@ -3,6 +3,13 @@
 A simple AFK macro made by Thosiya for Sea of Thieves.  
 This macro helps prevent inactivity kick while you are away from the keyboard.
 
+## Installation
+
+1. Just download it and unzip the zip file and open and run the Advance AFK macro .exe
+![image alt](https://github.com/thosara-karunathilaka/AFK-macro-v2/blob/4d37df2706e9c02c0c0279783655b0dc5030f5b2/images/how%20to%20download.png)
+
+
+
 ## Features
 - Automatic movement/actions
 - Lightweight and simple
@@ -14,9 +21,6 @@ This macro helps prevent inactivity kick while you are away from the keyboard.
 - Windows PC
 - Sea of Thieves
 
-## Installation
-
-1. Just download it and unzip the zip file and open and run the Advance AFK macro .exe
 
 ## Usage
 
